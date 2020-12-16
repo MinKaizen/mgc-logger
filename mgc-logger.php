@@ -1,5 +1,14 @@
 <?php declare(strict_types=1);
 
+/**
+ * Plugin Name: MGC Logger
+ * Plugin URI: https://github.com/martingcao/mgc-logger
+ * Description: Simple logger class for WordPress
+ * Version: 1.0
+ * Author: Martin G Cao
+ * Author URI: https://github.com/martingcao
+ */
+
 namespace MGC\Logger;
 
 class Logger {
